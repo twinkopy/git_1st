@@ -21,8 +21,11 @@
       <li>push_1st</li>
       <li>push_2nd</li>
       <li>conflict_1st_2nd</li>
+<<<<<<< HEAD
       <li>충돌_1</li>
+=======
       <li>충돌_2</li>
+>>>>>>> 실험4
     </ul>
   </body>
 </html>
